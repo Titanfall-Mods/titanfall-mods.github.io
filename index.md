@@ -55,4 +55,4 @@ If you installed the mod correctly, you should see it listed.
 
 # Need Help?
 
-Join our [Discord community](https://discord.gg/7UHZfMX) and ask around, somebody might know how to help you with your problem, and you might meet some new friends along the way!
+Join our [Discord community](https://discord.gg/Hw3A6ZKgy7) and ask around, somebody might know how to help you with your problem, and you might meet some new friends along the way!
